@@ -1,13 +1,13 @@
 <h1 align="center">Hi :] I'm Kyra</h1>
 <h3 align="center">A passionate Junior Software Developer from the San Francisco Bay Area</h3>
 
--  I’m currently working on **a side project, building a web extension.**
+-  👩🏽‍💻 I’m currently working on **a side project, building a web extension.**
 
--  I’m currently learning **C++, Ruby, Rust**
+-  ✨ I’m currently learning **C++, Ruby, Rust**
 
--  Ask me about **Javascript, Python, Html.**
+-  👩🏽‍💻 Ask me about **Javascript, Python, Html.**
 
--  How to reach me **kyralee2018@gmail.com**
+-  ✨ How to reach me **kyralee2018@gmail.com**
 
 <p align="left">
 </p>
