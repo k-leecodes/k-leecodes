@@ -3,9 +3,9 @@
 
 -  👩🏽‍💻 I’m currently working on **a side project, building a web extension.**
 
--  ✨ I’m currently learning **C++, CSS, Ruby, Rust**
+-  ✨ I’m currently learning **C++, Ruby, Rust**
 
--  👩🏽‍💻 Ask me about **Javascript, Python, HTML.**
+-  👩🏽‍💻 Ask me about **Javascript, CSS, Python, HTML.**
 
 -  ✨ How to reach me **kyralee2018@gmail.com**
 
