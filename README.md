@@ -15,4 +15,4 @@
 
 **Kyra Is Currently Listening To:**
 
-[alt](https://spotify-recently-played-readme.vercel.app/api?user=yhay0n23jd2xxxyg7zhg8v34q/)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yhay0n23jd2xxxyg7zhg8v34q&unique={true|1|on|yes})
