@@ -9,6 +9,10 @@
 
 -  ✨ How to reach me **kyralee2018@gmail.com**
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yhay0n23jd2xxxyg7zhg8v34q&width={width})
 <p align="left">
+<h4 align= "left"> Kyra's Motto: "Take The Risk Or Lose The Chance"</h4>
 </p>
+
+**Kyra Is Currently Listening To:**
+
+[alt](https://spotify-recently-played-readme.vercel.app/api?user=yhay0n23jd2xxxyg7zhg8v34q/)
